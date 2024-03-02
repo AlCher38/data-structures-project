@@ -7,8 +7,7 @@ class Node:
 
         :param data: данные, которые будут храниться в узле
         """
-        self.next_node = next_node
-        self.data = data
+        pass
 
 
 class Queue:
